@@ -1,4 +1,4 @@
-// Mail
+Mail
 
 var mailUtente = prompt("Inserisci la tua mail");
 
@@ -11,10 +11,3 @@ for (var i = 0; i < accessAllowed.length; i++) {
     console.log("Accesso negato")
   }
 };
-
-// Gioco dei dadi
-
-// Generare un numero random da 1  a 6, sia per il giocatore sia per il computer
-// Stabilire il vincitore, in base a chi fa il punteggio più alto.
-
-var 
